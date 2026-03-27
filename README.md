@@ -1,2 +1,3 @@
-# subscription-intelligence-dashboard
-AI-powered Power BI dashboard to analyze subscription usage and detect wasted spending
+# Subscription Intelligence Dashboard
+
+This project analyzes user subscription data to identify spending patterns and detect wasted expenses.
