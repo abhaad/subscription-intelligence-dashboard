@@ -20,25 +20,25 @@ This project provides a Power BI dashboard that:
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
-- 💰 **Total Monthly Spend:** ₹8000  
-- ⚠️ **Wasted Amount:** ₹2350  
-- 📉 **~28% of spending is wasted**
-
----
-
-## 🚀 Features
-
-- 📌 KPI Cards for quick insights  
-- 📊 Category-wise spending analysis  
-- ⚠️ Waste detection using usage patterns  
-- 🧠 DAX-based calculated columns & measures  
-- 📉 Visual insights for decision-making  
+- **Total Monthly Spend:** ₹8000  
+- **Wasted Amount:** ₹2350  
+- **~28% of spending is wasted**
 
 ---
 
-## ⚙️ Tech Stack
+##  Features
+
+- KPI Cards for quick insights  
+- Category-wise spending analysis  
+- Waste detection using usage patterns  
+- DAX-based calculated columns & measures  
+- Visual insights for decision-making  
+
+---
+
+## Tech Stack
 
 - **Power BI**
 - **Microsoft Excel**
@@ -46,7 +46,7 @@ This project provides a Power BI dashboard that:
 
 ---
 
-## 🧠 Methodology
+## Methodology
 
 - Created structured dataset of user subscriptions  
 - Built data model in Power BI  
@@ -56,27 +56,5 @@ This project provides a Power BI dashboard that:
 - Designed interactive dashboard for insights  
 
 ---
-
-## 📷 Dashboard Preview
-
-*(Add screenshot here later)*
-
----
-
-## 💼 Resume Highlight
-
-> Built a Power BI dashboard to analyze subscription usage and identify ~28% wasted spending, enabling data-driven cost optimization using DAX.
-
----
-
-## 📌 Future Improvements
-
-- Integration with real-time data  
-- AI-based recommendations  
-- Personalized alerts for subscription optimization  
-
----
-
-## 👨‍💻 Author
 
 **Abha Deshmukh**
